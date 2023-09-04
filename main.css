@@ -26,3 +26,7 @@ h1 {
 .details {
     font-size: 10px;
 }
+
+.ital {
+    font-style: italic;
+}
