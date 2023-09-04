@@ -1,7 +1,7 @@
 h1 {
     font-family:'Times New Roman', Times, serif;
     
-    font-size:35px;
+    font-size:40px;
 
     font-weight: bold;
 
@@ -16,15 +16,15 @@ h1 {
 }
 
 .header {
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .subject {
-    font-size: 17px;
+    font-size: 22px;
 }
 
 .details {
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .ital {
