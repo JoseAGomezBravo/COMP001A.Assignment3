@@ -1,0 +1,2 @@
+Author: Jose Angel Gomez Bravo
+Purpose: Based on the proficiency gained from the lecture activity, students must create a fictional online store containing at least three linked pages (e.g., index.html, products.html, and contact.html).
